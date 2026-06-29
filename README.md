@@ -1,2 +1,3 @@
 # .github
-GLASS Padel organisation profile
+
+Organisation-level defaults for GLASS Padel. The org profile lives in [`profile/README.md`](profile/README.md).
