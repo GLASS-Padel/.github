@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GLASS-Padel/.github/main/profile/assets/glass-logo.png" width="96" alt="GLASS Padel" />
+<img src="https://raw.githubusercontent.com/GLASS-Padel/.github/main/profile/assets/glass-banner.png" width="820" alt="GLASS Padel — Redefine your padel experience" />
 
-# GLASS Padel
-
-**Redefine your padel experience.**
+<br/>
 
 [![App Store](https://img.shields.io/badge/App_Store-071321?style=for-the-badge&logo=apple&logoColor=B1DF68)](https://onelink.to/29rn6s)
 [![Google Play](https://img.shields.io/badge/Google_Play-071321?style=for-the-badge&logo=googleplay&logoColor=B1DF68)](https://onelink.to/29rn6s)
