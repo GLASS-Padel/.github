@@ -1,0 +1,43 @@
+name: Feature request
+description: Propose a new capability or improvement
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for the suggestion. Please describe the problem you want solved,
+        not only the solution you have in mind.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What need or pain point does this address? Who is affected?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What you would like to see happen.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you have weighed, if any.
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Web app
+        - Mobile app
+        - Backend / API
+        - Infrastructure
+        - Cross-cutting
+    validations:
+      required: true
